@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/adocao.png.png</file>
+    <file>icons/e-mail.png</file>
+    <file>icons/logo1.png.png</file>
+    <file>icons/github (1).png</file>
+    <file>icons/cardapio.png</file>
+  </qresource>
+</RCC>
